@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsmeburak 
+- 👋 Hi, I’m @buuraak77
 - 👀 I’m interested in ... software
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
